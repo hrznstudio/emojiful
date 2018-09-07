@@ -1,0 +1,8 @@
+- name: thonk
+  strings:
+    - ":thonk:"
+  location: "assets/misc/thonk.png"
+- name: thonkbutcool
+  strings:
+    - ":thonkbutcool:"
+  location: "assets/misc/thonkbutcool.png"

@@ -1,0 +1,18 @@
+- name: heart
+  strings:
+    - ":heart:"
+    - "<3"
+  location: "assets/misc/heart.png"
+- name: apple
+  strings:
+    - ":apple:"
+  location: "assets/misc/apple.png"
+- name: poop
+  strings:
+    - ":poop:"
+    - ":shit:"
+  location: "assets/misc/poop.png"
+- name: 100
+  strings:
+    - ":100:"
+  location: "assets/misc/100.png"
