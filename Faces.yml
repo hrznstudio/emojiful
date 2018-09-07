@@ -1,45 +1,45 @@
-- smiley:
+- name: smiley
   strings:
     - ":)"
     - "(:"
     - ":smiley:"
   location: "assets/faces/smiley.png"
-- thinking:
+- name: thinking
   strings:
     - ":thinking:"
   location: "assets/faces/thinking.png"
-- angry:
+- name: angry
   strings:
     - ":angry:"
     - ">:("
     - "):<"
   location: "assets/faces/angry.png"
-- rage:
+- name: rage
   strings:
     - ":rage:"
   location: "assets/faces/rage.png"
-- neutral:
+- name: neutral
   strings:
     - ":neutral:"
     - ":|"
     - "|:"
   location: "assets/faces/neutral.png"
-- joy:
+- name: joy
   strings:
     - ":joy:"
   location: "assets/faces/joy.png"
-- stuck_out_tongue:
+- name: stuck_out_tongue
   strings:
     - ":stuck_out_tongue:"
     - ":P"
   location: "assets/faces/stuck_out_tongue.png"
-- sob:
+- name: sob
   strings:
     - ":sob:"
     - ";("
     - ");"
   location: "assets/faces/stuck_out_tongue.png"
-- shocked:
+- name: shocked
   strings:
     - ":shocked:"
     - "O:"

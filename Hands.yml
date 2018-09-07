@@ -1,44 +1,44 @@
-- wave:
+- name: wave
   strings:
     - ":wave:"
   location: "assets/hands/wave.png"
-- middle_finger:
+- name: middle_finger
   strings:
     - ":middle_finger:"
   location: "assets/hands/middle_finger.png"
-- ok_hand:
+- name: ok_hand
   strings:
     - ":ok_hand:"
   location: "assets/hands/ok_hand.png"
-- clap:
+- name: clap
   strings:
     - ":clap:"
   location: "assets/hands/clap.png"
-- point_up:
+- name: point_up
   strings:
     - ":point_up:"
   location: "assets/hands/point_up.png"
-- point_down:
+- name: point_down
   strings:
     - ":point_down:"
   location: "assets/hands/point_down.png"
-- point_left:
+- name: point_left
   strings:
     - ":point_left:"
   location: "assets/hands/point_left.png"
-- point_right:
+- name: point_right
   strings:
     - ":point_right:"
   location: "assets/hands/point_right.png"
-- punch:
+- name: punch
   strings:
     - ":punch:"
   location: "assets/hands/punch.png"
-- thumbs_up:
+- name: thumbs_up
   strings:
     - ":thumbs_up:"
   location: "assets/hands/thumbs_up.png"
-- thumbs_down:
+- name:   thumbs_down
   strings:
     - ":thumbs_down:"
   location: "assets/hands/thumbs_down.png"
