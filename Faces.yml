@@ -1,0 +1,47 @@
+- smiley:
+  - strings:
+    - ":)"
+    - "(:"
+    - ":smiley:"
+  - location: "assets/faces/smiley.png"
+- thinking:
+  - strings:
+    - ":thinking:"
+  - location: "assets/faces/thinking.png"
+- angry:
+  - strings:
+    - ":angry:"
+    - ">:("
+    - "):<"
+  - location: "assets/faces/angry.png"
+- rage:
+  - strings:
+    - ":rage:"
+  - location: "assets/faces/rage.png"
+- neutral:
+  - strings:
+    - ":neutral:"
+    - ":|"
+    - "|:"
+  - location: "assets/faces/neutral.png"
+- joy:
+  - strings:
+    - ":joy:"
+  - location: "assets/faces/joy.png"
+- stuck_out_tongue:
+  - strings:
+    - ":stuck_out_tongue:"
+    - ":P"
+  - location: "assets/faces/stuck_out_tongue.png"
+- sob:
+  - strings:
+    - ":sob:"
+    - ";("
+    - ");"
+  - location: "assets/faces/stuck_out_tongue.png"
+- shocked:
+  - strings:
+    - ":shocked:"
+    - "O:"
+    - ":O"
+  - location: "assets/faces/shocked.png"
