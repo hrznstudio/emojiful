@@ -1,44 +1,44 @@
 - wave:
-  - strings:
+  strings:
     - ":wave:"
-  - location: "assets/hands/wave.png"
+  location: "assets/hands/wave.png"
 - middle_finger:
-  - strings:
+  strings:
     - ":middle_finger:"
-  - location: "assets/hands/middle_finger.png"
+  location: "assets/hands/middle_finger.png"
 - ok_hand:
-  - strings:
+  strings:
     - ":ok_hand:"
-  - location: "assets/hands/ok_hand.png"
+  location: "assets/hands/ok_hand.png"
 - clap:
-  - strings:
+  strings:
     - ":clap:"
-  - location: "assets/hands/clap.png"
+  location: "assets/hands/clap.png"
 - point_up:
-  - strings:
+  strings:
     - ":point_up:"
-  - location: "assets/hands/point_up.png"
+  location: "assets/hands/point_up.png"
 - point_down:
-  - strings:
+  strings:
     - ":point_down:"
-  - location: "assets/hands/point_down.png"
+  location: "assets/hands/point_down.png"
 - point_left:
-  - strings:
+  strings:
     - ":point_left:"
-  - location: "assets/hands/point_left.png"
+  location: "assets/hands/point_left.png"
 - point_right:
-  - strings:
+  strings:
     - ":point_right:"
-  - location: "assets/hands/point_right.png"
+  location: "assets/hands/point_right.png"
 - punch:
-  - strings:
+  strings:
     - ":punch:"
-  - location: "assets/hands/punch.png"
+  location: "assets/hands/punch.png"
 - thumbs_up:
-  - strings:
+  strings:
     - ":thumbs_up:"
-  - location: "assets/hands/thumbs_up.png"
+  location: "assets/hands/thumbs_up.png"
 - thumbs_down:
-  - strings:
+  strings:
     - ":thumbs_down:"
-  - location: "assets/hands/thumbs_down.png"
+  location: "assets/hands/thumbs_down.png"

@@ -1,47 +1,47 @@
 - smiley:
-  - strings:
+  strings:
     - ":)"
     - "(:"
     - ":smiley:"
-  - location: "assets/faces/smiley.png"
+  location: "assets/faces/smiley.png"
 - thinking:
-  - strings:
+  strings:
     - ":thinking:"
-  - location: "assets/faces/thinking.png"
+  location: "assets/faces/thinking.png"
 - angry:
-  - strings:
+  strings:
     - ":angry:"
     - ">:("
     - "):<"
-  - location: "assets/faces/angry.png"
+  location: "assets/faces/angry.png"
 - rage:
-  - strings:
+  strings:
     - ":rage:"
-  - location: "assets/faces/rage.png"
+  location: "assets/faces/rage.png"
 - neutral:
-  - strings:
+  strings:
     - ":neutral:"
     - ":|"
     - "|:"
-  - location: "assets/faces/neutral.png"
+  location: "assets/faces/neutral.png"
 - joy:
-  - strings:
+  strings:
     - ":joy:"
-  - location: "assets/faces/joy.png"
+  location: "assets/faces/joy.png"
 - stuck_out_tongue:
-  - strings:
+  strings:
     - ":stuck_out_tongue:"
     - ":P"
-  - location: "assets/faces/stuck_out_tongue.png"
+  location: "assets/faces/stuck_out_tongue.png"
 - sob:
-  - strings:
+  strings:
     - ":sob:"
     - ";("
     - ");"
-  - location: "assets/faces/stuck_out_tongue.png"
+  location: "assets/faces/stuck_out_tongue.png"
 - shocked:
-  - strings:
+  strings:
     - ":shocked:"
     - "O:"
     - ":O"
-  - location: "assets/faces/shocked.png"
+  location: "assets/faces/shocked.png"
