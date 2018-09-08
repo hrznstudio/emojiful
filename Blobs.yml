@@ -1,4 +1,0 @@
-- name: blob_cat_gun
-  strings:
-    - ":blob_cat_gun:"
-  location: "assets/blobs/blob_cat_gun.png"

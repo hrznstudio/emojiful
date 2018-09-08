@@ -45,19 +45,3 @@
     - "O:"
     - ":O"
   location: "assets/faces/shocked.png"
-- name: dunno
-  strings:
-    - ":dunno:"
-  location: "assets/faces/dunno.png"
-- name: eyy
-  strings:
-    - ":eyy:"
-  location: "assets/faces/eyy.png"
-- name: smarts
-  strings:
-    - ":smarts:"
-  location: "assets/faces/smarts.png"
-- name: thraw
-  strings:
-    - ":thraw:"
-  location: "assets/faces/thraw.png"
