@@ -1,0 +1,12 @@
+- name: feelsbadman
+  strings:
+    - ":feelsbadman:"
+  location: "assets/pepe/feelsbadman.png"
+- name: monkas
+  strings:
+    - ":monkas:"
+  location: "assets/pepe/monkas.png"
+- name: monka_gun
+  strings:
+    - ":monka_gun:"
+  location: "assets/pepe/monka_gun.png"
