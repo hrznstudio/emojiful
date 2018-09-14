@@ -61,3 +61,7 @@
   strings:
     - ":thraw:"
   location: "assets/faces/thraw.png"
+- name: swear
+  strings:
+    - ":swear:"
+  location: "assets/faces/1f92c.png"
