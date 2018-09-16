@@ -1,4 +1,196 @@
-- name: blob_cat_gun
-  strings:
-    - ":blob_cat_gun:"
-  location: "assets/blobs/blob_cat_gun.png"
+-  name: blobcatcaged
+   location: assets/blobs/blobcatcaged
+   strings: 
+   - ':blobcatcaged:'
+-  name: blobcatnotlike
+   location: assets/blobs/blobcatnotlike
+   strings: 
+   - ':blobcatnotlike:'
+-  name: blobcatevil
+   location: assets/blobs/blobcatevil
+   strings: 
+   - ':blobcatevil:'
+-  name: blobcatpopsicle
+   location: assets/blobs/blobcatpopsicle
+   strings: 
+   - ':blobcatpopsicle:'
+-  name: blobcatreeeeeee
+   location: assets/blobs/blobcatreeeeeee
+   strings: 
+   - ':blobcatreeeeeee:'
+-  name: blobcatblep
+   location: assets/blobs/blobcatblep
+   strings: 
+   - ':blobcatblep:'
+-  name: blobcatpinged
+   location: assets/blobs/blobcatpinged
+   strings: 
+   - ':blobcatpinged:'
+-  name: blobcat
+   location: assets/blobs/blobcat
+   strings: 
+   - ':blobcat:'
+-  name: blobcatangry
+   location: assets/blobs/blobcatangry
+   strings: 
+   - ':blobcatangry:'
+-  name: blobcataww
+   location: assets/blobs/blobcataww
+   strings: 
+   - ':blobcataww:'
+-  name: blobcatb1nzy
+   location: assets/blobs/blobcatb1nzy
+   strings: 
+   - ':blobcatb1nzy:'
+-  name: blobcatban
+   location: assets/blobs/blobcatban
+   strings: 
+   - ':blobcatban:'
+-  name: blobcatbolb
+   location: assets/blobs/blobcatbolb
+   strings: 
+   - ':blobcatbolb:'
+-  name: blobcatcoffee
+   location: assets/blobs/blobcatcoffee
+   strings: 
+   - ':blobcatcoffee:'
+-  name: blobcatdead
+   location: assets/blobs/blobcatdead
+   strings: 
+   - ':blobcatdead:'
+-  name: blobcatdizzy
+   location: assets/blobs/blobcatdizzy
+   strings: 
+   - ':blobcatdizzy:'
+-  name: blobcatfrowning
+   location: assets/blobs/blobcatfrowning
+   strings: 
+   - ':blobcatfrowning:'
+-  name: blobcatfunny
+   location: assets/blobs/blobcatfunny
+   strings: 
+   - ':blobcatfunny:'
+-  name: blobcatglare
+   location: assets/blobs/blobcatglare
+   strings: 
+   - ':blobcatglare:'
+-  name: blobcatgoogly
+   location: assets/blobs/blobcatgoogly
+   strings: 
+   - ':blobcatgoogly:'
+-  name: blobcatgun
+   location: assets/blobs/blobcatgun
+   strings: 
+   - ':blobcatgun:'
+-  name: blobcathappy
+   location: assets/blobs/blobcathappy
+   strings: 
+   - ':blobcathappy:'
+-  name: blobcathearteyes
+   location: assets/blobs/blobcathearteyes
+   strings: 
+   - ':blobcathearteyes:'
+-  name: blobcatjoy
+   location: assets/blobs/blobcatjoy
+   strings: 
+   - ':blobcatjoy:'
+-  name: blobcatmelt
+   location: assets/blobs/blobcatmelt
+   strings: 
+   - ':blobcatmelt:'
+-  name: blobcatmlem
+   location: assets/blobs/blobcatmlem
+   strings: 
+   - ':blobcatmlem:'
+-  name: blobcatmorning
+   location: assets/blobs/blobcatmorning
+   strings: 
+   - ':blobcatmorning:'
+-  name: blobcatnauseated
+   location: assets/blobs/blobcatnauseated
+   strings: 
+   - ':blobcatnauseated:'
+-  name: blobcatnerd
+   location: assets/blobs/blobcatnerd
+   strings: 
+   - ':blobcatnerd:'
+-  name: blobcatneutral
+   location: assets/blobs/blobcatneutral
+   strings: 
+   - ':blobcatneutral:'
+-  name: blobcatnight
+   location: assets/blobs/blobcatnight
+   strings: 
+   - ':blobcatnight:'
+-  name: blobcatninja
+   location: assets/blobs/blobcatninja
+   strings: 
+   - ':blobcatninja:'
+-  name: blobcatnomcookie
+   location: assets/blobs/blobcatnomcookie
+   strings: 
+   - ':blobcatnomcookie:'
+-  name: blobcatnomfish
+   location: assets/blobs/blobcatnomfish
+   strings: 
+   - ':blobcatnomfish:'
+-  name: blobcatnomouth
+   location: assets/blobs/blobcatnomouth
+   strings: 
+   - ':blobcatnomouth:'
+-  name: blobcatpats
+   location: assets/blobs/blobcatpats
+   strings: 
+   - ':blobcatpats:'
+-  name: blobcatsad
+   location: assets/blobs/blobcatsad
+   strings: 
+   - ':blobcatsad:'
+-  name: blobcatscream
+   location: assets/blobs/blobcatscream
+   strings: 
+   - ':blobcatscream:'
+-  name: blobcatsick
+   location: assets/blobs/blobcatsick
+   strings: 
+   - ':blobcatsick:'
+-  name: blobcatthinkOwO
+   location: assets/blobs/blobcatthinkOwO
+   strings: 
+   - ':blobcatthinkOwO:'
+-  name: blobcatthinkingeyes
+   location: assets/blobs/blobcatthinkingeyes
+   strings: 
+   - ':blobcatthinkingeyes:'
+-  name: blobcatthinkingsmirk
+   location: assets/blobs/blobcatthinkingsmirk
+   strings: 
+   - ':blobcatthinkingsmirk:'
+-  name: blobcatuwu
+   location: assets/blobs/blobcatuwu
+   strings: 
+   - ':blobcatuwu:'
+-  name: blobcatwhatsthis
+   location: assets/blobs/blobcatwhatsthis
+   strings: 
+   - ':blobcatwhatsthis:'
+-  name: blobcatwhistle
+   location: assets/blobs/blobcatwhistle
+   strings: 
+   - ':blobcatwhistle:'
+-  name: blobcatwink
+   location: assets/blobs/blobcatwink
+   strings: 
+   - ':blobcatwink:'
+-  name: blobcatwinktongue
+   location: assets/blobs/blobcatwinktongue
+   strings: 
+   - ':blobcatwinktongue:'
+-  name: blobcatwolfiri
+   location: assets/blobs/blobcatwolfiri
+   strings: 
+   - ':blobcatwolfiri:'
+-  name: blobcoolcat
+   location: assets/blobs/blobcoolcat
+   strings: 
+   - ':blobcoolcat:'
