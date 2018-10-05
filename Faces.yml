@@ -38,7 +38,7 @@
     - ":sob:"
     - ";("
     - ");"
-  location: "assets/faces/stuck_out_tongue.png"
+  location: "assets/faces/sob.png"
 - name: shocked
   strings:
     - ":shocked:"
