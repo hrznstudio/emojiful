@@ -1,196 +1,196 @@
 -  name: blobcatcaged
-   location: assets/blobs/blobcatcaged
+   location: "assets/blobs/blobcatcaged.png"
    strings: 
    - ':blobcatcaged:'
 -  name: blobcatnotlike
-   location: assets/blobs/blobcatnotlike
+   location: "assets/blobs/blobcatnotlike.png"
    strings: 
    - ':blobcatnotlike:'
 -  name: blobcatevil
-   location: assets/blobs/blobcatevil
+   location: "assets/blobs/blobcatevil.png"
    strings: 
    - ':blobcatevil:'
 -  name: blobcatpopsicle
-   location: assets/blobs/blobcatpopsicle
+   location: "assets/blobs/blobcatpopsicle.png"
    strings: 
    - ':blobcatpopsicle:'
 -  name: blobcatreeeeeee
-   location: assets/blobs/blobcatreeeeeee
+   location: "assets/blobs/blobcatreeeeeee.png"
    strings: 
    - ':blobcatreeeeeee:'
 -  name: blobcatblep
-   location: assets/blobs/blobcatblep
+   location: "assets/blobs/blobcatblep.png"
    strings: 
    - ':blobcatblep:'
 -  name: blobcatpinged
-   location: assets/blobs/blobcatpinged
+   location: "assets/blobs/blobcatpinged.png"
    strings: 
    - ':blobcatpinged:'
 -  name: blobcat
-   location: assets/blobs/blobcat
+   location: "assets/blobs/blobcat.png"
    strings: 
    - ':blobcat:'
 -  name: blobcatangry
-   location: assets/blobs/blobcatangry
+   location: "assets/blobs/blobcatangry.png"
    strings: 
    - ':blobcatangry:'
 -  name: blobcataww
-   location: assets/blobs/blobcataww
+   location: "assets/blobs/blobcataww.png"
    strings: 
    - ':blobcataww:'
 -  name: blobcatb1nzy
-   location: assets/blobs/blobcatb1nzy
+   location: "assets/blobs/blobcatb1nzy.png"
    strings: 
    - ':blobcatb1nzy:'
 -  name: blobcatban
-   location: assets/blobs/blobcatban
+   location: "assets/blobs/blobcatban.png"
    strings: 
    - ':blobcatban:'
 -  name: blobcatbolb
-   location: assets/blobs/blobcatbolb
+   location: "assets/blobs/blobcatbolb.png"
    strings: 
    - ':blobcatbolb:'
 -  name: blobcatcoffee
-   location: assets/blobs/blobcatcoffee
+   location: "assets/blobs/blobcatcoffee.png"
    strings: 
    - ':blobcatcoffee:'
 -  name: blobcatdead
-   location: assets/blobs/blobcatdead
+   location: "assets/blobs/blobcatdead.png"
    strings: 
    - ':blobcatdead:'
 -  name: blobcatdizzy
-   location: assets/blobs/blobcatdizzy
+   location: "assets/blobs/blobcatdizzy.png"
    strings: 
    - ':blobcatdizzy:'
 -  name: blobcatfrowning
-   location: assets/blobs/blobcatfrowning
+   location: "assets/blobs/blobcatfrowning.png"
    strings: 
    - ':blobcatfrowning:'
 -  name: blobcatfunny
-   location: assets/blobs/blobcatfunny
+   location: "assets/blobs/blobcatfunny.png"
    strings: 
    - ':blobcatfunny:'
 -  name: blobcatglare
-   location: assets/blobs/blobcatglare
+   location: "assets/blobs/blobcatglare.png"
    strings: 
    - ':blobcatglare:'
 -  name: blobcatgoogly
-   location: assets/blobs/blobcatgoogly
+   location: "assets/blobs/blobcatgoogly.png"
    strings: 
    - ':blobcatgoogly:'
 -  name: blobcatgun
-   location: assets/blobs/blobcatgun
+   location: "assets/blobs/blobcatgun.png"
    strings: 
    - ':blobcatgun:'
 -  name: blobcathappy
-   location: assets/blobs/blobcathappy
+   location: "assets/blobs/blobcathappy.png"
    strings: 
    - ':blobcathappy:'
 -  name: blobcathearteyes
-   location: assets/blobs/blobcathearteyes
+   location: "assets/blobs/blobcathearteyes.png"
    strings: 
    - ':blobcathearteyes:'
 -  name: blobcatjoy
-   location: assets/blobs/blobcatjoy
+   location: "assets/blobs/blobcatjoy.png"
    strings: 
    - ':blobcatjoy:'
 -  name: blobcatmelt
-   location: assets/blobs/blobcatmelt
+   location: "assets/blobs/blobcatmelt.png"
    strings: 
    - ':blobcatmelt:'
 -  name: blobcatmlem
-   location: assets/blobs/blobcatmlem
+   location: "assets/blobs/blobcatmlem.png"
    strings: 
    - ':blobcatmlem:'
 -  name: blobcatmorning
-   location: assets/blobs/blobcatmorning
+   location: "assets/blobs/blobcatmorning.png"
    strings: 
    - ':blobcatmorning:'
 -  name: blobcatnauseated
-   location: assets/blobs/blobcatnauseated
+   location: "assets/blobs/blobcatnauseated.png"
    strings: 
    - ':blobcatnauseated:'
 -  name: blobcatnerd
-   location: assets/blobs/blobcatnerd
+   location: "assets/blobs/blobcatnerd.png"
    strings: 
    - ':blobcatnerd:'
 -  name: blobcatneutral
-   location: assets/blobs/blobcatneutral
+   location: "assets/blobs/blobcatneutral.png"
    strings: 
    - ':blobcatneutral:'
 -  name: blobcatnight
-   location: assets/blobs/blobcatnight
+   location: "assets/blobs/blobcatnight.png"
    strings: 
    - ':blobcatnight:'
 -  name: blobcatninja
-   location: assets/blobs/blobcatninja
+   location: "assets/blobs/blobcatninja.png"
    strings: 
    - ':blobcatninja:'
 -  name: blobcatnomcookie
-   location: assets/blobs/blobcatnomcookie
+   location: "assets/blobs/blobcatnomcookie.png"
    strings: 
    - ':blobcatnomcookie:'
 -  name: blobcatnomfish
-   location: assets/blobs/blobcatnomfish
+   location: "assets/blobs/blobcatnomfish.png"
    strings: 
    - ':blobcatnomfish:'
 -  name: blobcatnomouth
-   location: assets/blobs/blobcatnomouth
+   location: "assets/blobs/blobcatnomouth.png"
    strings: 
    - ':blobcatnomouth:'
 -  name: blobcatpats
-   location: assets/blobs/blobcatpats
+   location: "assets/blobs/blobcatpats.png"
    strings: 
    - ':blobcatpats:'
 -  name: blobcatsad
-   location: assets/blobs/blobcatsad
+   location: "assets/blobs/blobcatsad.png"
    strings: 
    - ':blobcatsad:'
 -  name: blobcatscream
-   location: assets/blobs/blobcatscream
+   location: "assets/blobs/blobcatscream.png"
    strings: 
    - ':blobcatscream:'
 -  name: blobcatsick
-   location: assets/blobs/blobcatsick
+   location: "assets/blobs/blobcatsick.png"
    strings: 
    - ':blobcatsick:'
 -  name: blobcatthinkOwO
-   location: assets/blobs/blobcatthinkOwO
+   location: "assets/blobs/blobcatthinkOwO.png"
    strings: 
    - ':blobcatthinkOwO:'
 -  name: blobcatthinkingeyes
-   location: assets/blobs/blobcatthinkingeyes
+   location: "assets/blobs/blobcatthinkingeyes.png"
    strings: 
    - ':blobcatthinkingeyes:'
 -  name: blobcatthinkingsmirk
-   location: assets/blobs/blobcatthinkingsmirk
+   location: "assets/blobs/blobcatthinkingsmirk.png"
    strings: 
    - ':blobcatthinkingsmirk:'
 -  name: blobcatuwu
-   location: assets/blobs/blobcatuwu
+   location: "assets/blobs/blobcatuwu.png"
    strings: 
    - ':blobcatuwu:'
 -  name: blobcatwhatsthis
-   location: assets/blobs/blobcatwhatsthis
+   location: "assets/blobs/blobcatwhatsthis.png"
    strings: 
    - ':blobcatwhatsthis:'
 -  name: blobcatwhistle
-   location: assets/blobs/blobcatwhistle
+   location: "assets/blobs/blobcatwhistle.png"
    strings: 
    - ':blobcatwhistle:'
 -  name: blobcatwink
-   location: assets/blobs/blobcatwink
+   location: "assets/blobs/blobcatwink.png"
    strings: 
    - ':blobcatwink:'
 -  name: blobcatwinktongue
-   location: assets/blobs/blobcatwinktongue
+   location: "assets/blobs/blobcatwinktongue.png"
    strings: 
    - ':blobcatwinktongue:'
 -  name: blobcatwolfiri
-   location: assets/blobs/blobcatwolfiri
+   location: "assets/blobs/blobcatwolfiri.png"
    strings: 
    - ':blobcatwolfiri:'
 -  name: blobcoolcat
-   location: assets/blobs/blobcoolcat
+   location: "assets/blobs/blobcoolcat.png"
    strings: 
    - ':blobcoolcat:'
